@@ -9,7 +9,7 @@ public class Test {
 
 	public static void main(String[] args) throws IOException 
 	{
-		int[] arr = new int[200000000];
+		int[] arr = new int[20000];
 		
 		Random rn = new Random();
 		File fle = new File("array.txt");
